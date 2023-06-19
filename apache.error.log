@@ -1,0 +1,4 @@
+[Mon Jun 05 15:50:46.484228 2023] [ssl:warn] [pid 1330] AH01909: lenny-socket.test:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 05 15:50:46.517542 2023] [ssl:warn] [pid 1331] AH01909: lenny-socket.test:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 05 16:33:59.914324 2023] [ssl:warn] [pid 1331] AH01909: lenny-socket.test:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 05 16:58:59.252577 2023] [ssl:warn] [pid 1331] AH01909: lenny-socket.test:443:0 server certificate does NOT include an ID which matches the server name
